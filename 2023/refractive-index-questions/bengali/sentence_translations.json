@@ -2,7 +2,7 @@
  {
   "input": "The last video I put out was about the index of refraction.",
   "model": "nmt",
-  "translatedText": "আমি যে শেষ ভিডিওটি রেখেছিলাম তা প্রতিসরণ সূচক সম্পর্কে ছিল।",
+  "translatedText": "আমি যে শেষ ভিডিওটি দিয়েছিলাম তা প্রতিসরণ সূচক সম্পর্কে ছিল।",
   "time_range": [
    0.0,
    2.92
